@@ -2,5 +2,4 @@
 React App to browse through Youtube videos as you type.
 
 ## Try it:
-
-https://youtubebrowser-react.herokuapp.com/
+<a href="https://youtubebrowser-react.herokuapp.com/" target="_blank">Youtube browser</a>
